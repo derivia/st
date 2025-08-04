@@ -6,6 +6,10 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font = "IosevkaTerm Nerd Font:pixelsize=13:antialias=true:autohint=true";
+int disablebold = 0;
+int disableitalic = 1;
+int disableroman = 0;
+
 static int borderpx = 2;
 
 /*
