@@ -7,7 +7,7 @@
  */
 static char *font = "IosevkaTerm Nerd Font:pixelsize=13:antialias=true:autohint=true";
 int disablebold = 0;
-int disableitalic = 1;
+int disableitalic = 0;
 int disableroman = 0;
 
 static int borderpx = 2;
